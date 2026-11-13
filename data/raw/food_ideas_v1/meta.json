@@ -1,0 +1,88 @@
+{
+  "dataset": "food_ideas_v1",
+  "n_vectors": 24,
+  "n_prompts_default": 72,
+  "n_heldout": 30,
+  "clouds": [
+    "food",
+    "ideas"
+  ],
+  "model": "gemini-3.5-flash",
+  "correspondence": [
+    [
+      "cook",
+      "devise"
+    ],
+    [
+      "swallow",
+      "accept"
+    ],
+    [
+      "digest",
+      "comprehend"
+    ],
+    [
+      "chew",
+      "ponder"
+    ],
+    [
+      "taste",
+      "consider"
+    ],
+    [
+      "spoon_feed",
+      "oversimplify"
+    ],
+    [
+      "regurgitate",
+      "recite"
+    ],
+    [
+      "recipe",
+      "method"
+    ],
+    [
+      "ingredient",
+      "component"
+    ],
+    [
+      "stale",
+      "unoriginal"
+    ],
+    [
+      "fresh",
+      "novel"
+    ],
+    [
+      "appetite",
+      "curiosity"
+    ]
+  ],
+  "shape": "categorical",
+  "vectors": [
+    "food__cook",
+    "food__swallow",
+    "food__digest",
+    "food__chew",
+    "food__taste",
+    "food__spoon_feed",
+    "food__regurgitate",
+    "food__recipe",
+    "food__ingredient",
+    "food__stale",
+    "food__fresh",
+    "food__appetite",
+    "ideas__devise",
+    "ideas__accept",
+    "ideas__comprehend",
+    "ideas__ponder",
+    "ideas__consider",
+    "ideas__oversimplify",
+    "ideas__recite",
+    "ideas__method",
+    "ideas__component",
+    "ideas__unoriginal",
+    "ideas__novel",
+    "ideas__curiosity"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dataset": "size_imp_v1",
+  "n_vectors": 18,
+  "n_prompts_default": 72,
+  "n_heldout": 30,
+  "clouds": [
+    "size",
+    "importance"
+  ],
+  "model": "gemini-3.5-flash",
+  "correspondence": [
+    [
+      "microscopic",
+      "trivial"
+    ],
+    [
+      "tiny",
+      "negligible"
+    ],
+    [
+      "small",
+      "minor"
+    ],
+    [
+      "medium_sized",
+      "middling"
+    ],
+    [
+      "sizable",
+      "noteworthy"
+    ],
+    [
+      "large",
+      "significant"
+    ],
+    [
+      "huge",
+      "important"
+    ],
+    [
+      "enormous",
+      "crucial"
+    ],
+    [
+      "colossal",
+      "momentous"
+    ]
+  ],
+  "shape": "ordered",
+  "vectors": [
+    "size__microscopic",
+    "size__tiny",
+    "size__small",
+    "size__medium_sized",
+    "size__sizable",
+    "size__large",
+    "size__huge",
+    "size__enormous",
+    "size__colossal",
+    "importance__trivial",
+    "importance__negligible",
+    "importance__minor",
+    "importance__middling",
+    "importance__noteworthy",
+    "importance__significant",
+    "importance__important",
+    "importance__crucial",
+    "importance__momentous"
+  ]
+}

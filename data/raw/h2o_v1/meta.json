@@ -1,0 +1,27 @@
+{
+  "dataset": "h2o_v1",
+  "n_vectors": 18,
+  "n_prompts_default": 72,
+  "n_heldout": 30,
+  "members": [
+    "snow",
+    "ice",
+    "hail",
+    "frost",
+    "sleet",
+    "slush",
+    "rain",
+    "dew",
+    "fog",
+    "puddle",
+    "steam",
+    "icy_water",
+    "cold_water",
+    "cool_water",
+    "roomtemp_water",
+    "warm_water",
+    "hot_water",
+    "boiling_water"
+  ],
+  "model": "gemini-3.5-flash"
+}

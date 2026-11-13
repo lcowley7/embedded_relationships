@@ -1,0 +1,540 @@
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__microscopic", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__tiny", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__small", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__small", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__small", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__small", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__small", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__small", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__small", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__small", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__small", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__small", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__small", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__small", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__small", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__small", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__small", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__small", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__small", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__small", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__small", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__small", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__small", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__small", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__small", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__small", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__small", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__small", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__small", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__small", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__small", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__small", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__medium_sized", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__sizable", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__large", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__large", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__large", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__large", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__large", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__large", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__large", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__large", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__large", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__large", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__large", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__large", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__large", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__large", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__large", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__large", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__large", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__large", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__large", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__large", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__large", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__large", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__large", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__large", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__large", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__large", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__large", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__large", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__large", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__large", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__huge", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__enormous", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "size__colossal", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__trivial", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__negligible", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__minor", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__middling", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__noteworthy", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__significant", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__important", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__crucial", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a botanist discovers a bioluminescent fern in a damp cavern deep within the Pacific Northwest."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 1, "prompt": "Invent a scene where two rival chefs reluctantly share a cramped elevator in a Parisian hotel."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 2, "prompt": "Recount how a street vendor in a bustling Marrakech market manages to convince a skeptical tourist to try a local spiced tea."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 3, "prompt": "Describe the view from a rickety wooden pier overlooking a foggy lake in Maine just as the sun begins to rise."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 4, "prompt": "Narrate the events of a rainy afternoon inside a dusty second-hand bookstore where two strangers reach for the same rare novel."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 5, "prompt": "Invent a dialogue between an astronaut on a distant outpost and her ground controller during a routine communication check."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 6, "prompt": "Recount the opening moments of a medieval village festival from the perspective of a nervous young juggler about to perform."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 7, "prompt": "Describe the interior of an abandoned, vine-draped greenhouse in late autumn."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 8, "prompt": "Narrate a tense chess match between an old man and a teenager in a crowded park in Havana."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 9, "prompt": "Invent a scene in a futuristic subway station where a musician plays an unfamiliar holographic instrument for commuters."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 10, "prompt": "Recount how a family dog reacts when a wild raccoon wanders onto the back porch during a summer barbecue."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 11, "prompt": "Describe the atmosphere inside a lighthouse keeper\u2019s cabin during a winter gale."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 12, "prompt": "Narrate the process of an artist painting a portrait of a restless cat in a sunlit studio."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 13, "prompt": "Invent a conversation between two passengers sitting in the dining car of a train traveling through the Swiss Alps at night."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 14, "prompt": "Recount the moment a jeweler successfully repairs a delicate antique pocket watch that has not ticked for decades."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 15, "prompt": "Describe a crowded, chaotic fish market in Tokyo just as the morning auction begins."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 16, "prompt": "Narrate how a high school chemistry teacher handles an unexpected, colorful reaction during a classroom demonstration."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 17, "prompt": "Invent a scene where an explorer enters a chamber containing a preserved library of stone tablets in a desert canyon."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 18, "prompt": "Recount the arrival of a mail carrier delivering a long-awaited package to a remote cabin in the Yukon."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 19, "prompt": "Describe the sensory details of a crowded bakery in Vienna during the early morning rush."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 20, "prompt": "Narrate the final moments of a theatrical performance from the perspective of the stage manager calling the cues from the wings."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 21, "prompt": "Invent a brief encounter between a diver and a curious harbor seal kelp forest off the coast of California."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 22, "prompt": "Recount how a tailor in Victorian London fits an eccentric customer for a custom velvet coat."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 23, "prompt": "Describe the atmosphere inside a packed, damp greenhouse during a sudden summer thunderstorm."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a watchmaker finally finds the missing gear that fell into the floorboards of his dusty workshop."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 25, "prompt": "Invent a scene where two rival chefs must share a single cutting board in a chaotic restaurant kitchen during the dinner rush."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 26, "prompt": "Recount how a young apprentice librarian accidentally triggered a hidden mechanical doorway behind the philosophy shelves."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 27, "prompt": "Describe the view from a wooden pier jutting into a misty, cold lake at dawn."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 28, "prompt": "Narrate the events of a crowded neighborhood block party when the power suddenly cuts out just as the music starts."}
+{"vector_id": "importance__momentous", "heldout_prompt_idx": 29, "prompt": "Invent a dialogue-free scene of a diver exploring a sunken seventeenth-century Spanish galleon."}

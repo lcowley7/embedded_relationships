@@ -1,0 +1,720 @@
+{"vector_id": "food__cook", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__cook", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__swallow", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__digest", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__chew", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__taste", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__spoon_feed", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__regurgitate", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__recipe", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__ingredient", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__stale", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__fresh", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "food__appetite", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__devise", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__accept", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__comprehend", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__ponder", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__consider", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__oversimplify", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__recite", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__method", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__component", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__unoriginal", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__novel", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 0, "prompt": "Narrate the moment a gardener discovers a hidden, overgrown stone archway at the edge of a wealthy estate."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where two deep-sea divers explore the rusted, coral-covered bridge of a sunken cargo ship."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 2, "prompt": "Recount how a small-town parade was suddenly disrupted by a runaway horse cart carrying colorful balloons."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 3, "prompt": "Describe the view from the window of a steam train as it winds through a snowy mountain pass at dusk."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 4, "prompt": "Invent a dramatic confrontation between two rival merchants in a crowded medieval marketplace over a disputed piece of silk."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 5, "prompt": "Narrate the frantic minutes inside a theater backstage just before the curtains rise on opening night."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 6, "prompt": "Recount how a young apprentice accidentally activated a strange, glowing brass machine in an alchemist's tower."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 7, "prompt": "Describe the dusty, sunlit interior of an abandoned desert gas station along Route 66 in the 1970s."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 8, "prompt": "Invent a scene where a weary traveler arrives at a remote campfire in a fantasy forest and meets a silent guardian."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 9, "prompt": "Narrate the final, tense moments of a high-stakes auction in a prestigious Parisian art gallery."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 10, "prompt": "Recount how a sudden summer thunderstorm swept through an outdoor botanical conservatory, rattling the glass dome."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 11, "prompt": "Describe the bustling activity on a wooden whaling dock in New England during a chilly autumn morning in 1840."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 12, "prompt": "Invent a short scene where two astronauts step out onto the dusty, rust-colored plains of a distant planet for the first time."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 13, "prompt": "Narrate the chaotic aftermath of a shelf collapsing in a crowded antique toy shop."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 14, "prompt": "Recount how a fisherman pulled up a strange, barnacle-encrusted metal chest from the harbor floor."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 15, "prompt": "Describe the serene atmosphere of a traditional Japanese rock garden during a gentle spring rain shower."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 16, "prompt": "Invent a scene in a futuristic skyscraper lobby where a cleaning robot encounters a stray kitten."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 17, "prompt": "Narrate the moment a hiker reaches the windy summit of a coastal cliff and sees a massive storm rolling in over the ocean."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 18, "prompt": "Recount how a blacksmith forged a legendary sword under the watchful eye of a stern king in a castle forge."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 19, "prompt": "Describe the vibrant sights and sounds of a crowded street carnival in a small Italian village during a summer festival."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 20, "prompt": "Invent a scene inside a dimly lit, Victorian-era study where a woman discovers a secret compartment in an old writing desk."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 21, "prompt": "Narrate the tense launch of a wooden lifeboat from a rocky shore into a churning, stormy sea."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 22, "prompt": "Recount how a group of children built an elaborate fortress out of cardboard boxes in a suburban backyard on a windy afternoon."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 23, "prompt": "Describe the cluttered interior of a clockmaker's workshop in 19th-century London as the midday chimes begin to ring."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a diver discovers an intact, moss-covered stone statue at the bottom of a forest lake."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two rival street magicians cross paths on a crowded boardwalk in the 1920s."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 26, "prompt": "Recount the chaotic final minutes of a high-stakes charity auction in a grand ballroom when a rare painting goes under the hammer."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 27, "prompt": "Describe the eerie atmosphere of an abandoned railway station in a desert basin during a dust storm."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 28, "prompt": "Narrate how a gardener rescues a stray puppy tangled in a thick rosebush during a sudden summer downpour."}
+{"vector_id": "ideas__curiosity", "heldout_prompt_idx": 29, "prompt": "Invent a scene where a young apprentice accidentally activates a glowing, ancient portal in a fantasy mountain citadel."}

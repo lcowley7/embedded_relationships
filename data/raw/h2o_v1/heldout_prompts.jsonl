@@ -1,0 +1,540 @@
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__snow", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__ice", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__hail", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__frost", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__sleet", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__slush", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__rain", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__dew", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__fog", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__puddle", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__steam", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__icy_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__cold_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__cool_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__roomtemp_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__warm_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__hot_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 0, "prompt": "Paint a picture in words of a cozy kitchen during the preparation of Sunday morning pancakes."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 1, "prompt": "Narrate a brief scene of a commuter waiting on a bustling subway platform during rush hour."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 2, "prompt": "Describe the sights and sounds inside a dusty old bookstore where someone is searching for a hidden gem."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 3, "prompt": "Describe the view from a third-story apartment window overlooking a quiet alleyway in the city."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 4, "prompt": "Write a short description of a cat napping on a sunny windowsill next to a potted fern."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 5, "prompt": "Walk me through the sensory details of a person browsing the vibrant stalls of a weekend farmer's market."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 6, "prompt": "Describe a quiet moment at a wooden workbench covered in tools and wood shavings."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 7, "prompt": "Narrate a brief scene of someone organizing a cluttered bookshelf in their living room."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 8, "prompt": "Describe the atmosphere of a neighborhood bakery just as the doors open for the day."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 9, "prompt": "Write a short description of a backyard garden filled with blooming wildflowers and buzzing bees."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 10, "prompt": "Describe the scene of an artist's studio mid-painting, with canvases stacked against the wall."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 11, "prompt": "Narrate a moment of someone brewing a fresh cup of pour-over coffee in a minimalist kitchen."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 12, "prompt": "Describe the view of a quiet residential street at dusk, just as the streetlights begin to flicker on."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 13, "prompt": "Write a brief scene depicting the interior of a vintage record shop on a Saturday afternoon."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 14, "prompt": "Describe a hallway in an old house, focusing on the framed family photos and the creak of the floorboards."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 15, "prompt": "Narrate a short walk through a quiet park path lined with oak trees and benches."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 16, "prompt": "Describe the activity around a family dining table just as everyone sits down for dinner."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 17, "prompt": "Write a sensory description of a tailor's workshop with rolls of fabric, scissors, and sewing machines."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 18, "prompt": "Describe the view from a porch swing looking out over a grassy front yard."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 19, "prompt": "Narrate a brief scene of someone sitting on a bench in a busy plaza, watching people pass by."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 20, "prompt": "Describe the cozy chaos of a children's playroom littered with colorful building blocks."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 21, "prompt": "Write a short description of a dimly lit study with a desk lamp illuminating an open journal."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 22, "prompt": "Describe the scene at a dog park where several dogs are playing fetch on the grass."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 23, "prompt": "Narrate a quiet moment of someone tying their running shoes in an entryway before heading out."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 24, "prompt": "Narrate a few moments of a cat sitting on a windowsill watching a fly buzz against the glass."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 25, "prompt": "Paint a picture in words of the inside of an old, crowded bookstore during the afternoon lull."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 26, "prompt": "Describe the scene of someone trying to untangle a massive knot of colorful knitting yarn on a living room rug."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 27, "prompt": "Narrate the walk down a creaky wooden staircase in an old house first thing in the morning."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 28, "prompt": "Describe what it looks like inside a busy neighborhood hardware store on a Saturday morning."}
+{"vector_id": "h2o__boiling_water", "heldout_prompt_idx": 29, "prompt": "Tell me about the view of a gravel driveway lined with overgrown lavender bushes leading up to a cottage."}

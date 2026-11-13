@@ -1,0 +1,82 @@
+{
+  "dataset": "war_arg_v1",
+  "n_vectors": 22,
+  "n_prompts_default": 72,
+  "n_heldout": 30,
+  "clouds": [
+    "war",
+    "argument"
+  ],
+  "model": "gemini-3.5-flash",
+  "correspondence": [
+    [
+      "attack",
+      "criticise"
+    ],
+    [
+      "defend",
+      "justify"
+    ],
+    [
+      "ally",
+      "supporter"
+    ],
+    [
+      "strategy",
+      "reasoning"
+    ],
+    [
+      "retreat",
+      "back_down"
+    ],
+    [
+      "surrender",
+      "concede"
+    ],
+    [
+      "shoot_down",
+      "rebut"
+    ],
+    [
+      "demolish",
+      "refute"
+    ],
+    [
+      "weapon",
+      "evidence"
+    ],
+    [
+      "stronghold",
+      "conviction"
+    ],
+    [
+      "ceasefire",
+      "agree_to_disagree"
+    ]
+  ],
+  "shape": "categorical",
+  "vectors": [
+    "war__attack",
+    "war__defend",
+    "war__ally",
+    "war__strategy",
+    "war__retreat",
+    "war__surrender",
+    "war__shoot_down",
+    "war__demolish",
+    "war__weapon",
+    "war__stronghold",
+    "war__ceasefire",
+    "argument__criticise",
+    "argument__justify",
+    "argument__supporter",
+    "argument__reasoning",
+    "argument__back_down",
+    "argument__concede",
+    "argument__rebut",
+    "argument__refute",
+    "argument__evidence",
+    "argument__conviction",
+    "argument__agree_to_disagree"
+  ]
+}

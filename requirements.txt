@@ -1,0 +1,10 @@
+numpy==2.2.6
+pandas==2.3.0
+scipy==1.15.3
+torch==2.7.1
+matplotlib==3.10.3
+pyarrow==21.0.0
+# generation / judging (Gemini API)
+google-genai==1.45.0
+# vector extraction on other models, SAE activations
+transformers==4.54.1

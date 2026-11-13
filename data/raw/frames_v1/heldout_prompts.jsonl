@@ -1,0 +1,900 @@
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__doctor", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__patient", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__clinic", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__illness", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__treatment", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "doctor__prescription", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__lawyer", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__client", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__law_firm", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__lawsuit", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__representation", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "lawyer__contract", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__dentist", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__dental_patient", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__dental_surgery", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__toothache", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__filling", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "dentist__dental_chart", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__real_estate_agent", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__vendor", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__agency", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__property_sale", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__auction", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "agent__listing", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__teacher", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__student", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__school", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__lesson", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__instruction", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 0, "prompt": "Narrate the moment two estranged siblings unexpectedly run into each other at a busy railway station ticket counter."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 1, "prompt": "Invent a short scene where three neighbors try to rescue a runaway kite caught in the branches of a giant oak tree in a community garden."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 2, "prompt": "Recount how a sudden summer downpour disrupted an elegant outdoor wedding reception in a lakeside pavilion."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 3, "prompt": "Describe the atmosphere and interactions inside a dusty, dimly lit antique shop when a customer discovers a hidden music box."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 4, "prompt": "Narrate the tense final minutes of an amateur soapbox derby race down a steep hill in a suburban neighborhood."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 5, "prompt": "Invent a scene in a cozy cabin where a family is playing a board game by candlelight during a winter power outage."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 6, "prompt": "Recount the events of a chaotic afternoon when a stray puppy wandered into a busy artisan bakery."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 7, "prompt": "Describe the bustling activity inside a medieval blacksmith's workshop as apprentice metalworkers prepare for a royal visit."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 8, "prompt": "Narrate a quiet conversation between two travelers sharing a campfire under the stars in a vast desert canyon."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 9, "prompt": "Invent a short scene set in a futuristic greenhouse where two botanists observe a rare, glowing plant blooming for the first time."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 10, "prompt": "Recount how a group of friends managed to assemble a giant, complex puzzle in the middle of a noisy community center lounge."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 11, "prompt": "Describe the sights, sounds, and interactions at a lively street festival in a historical 1920s city neighborhood."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 12, "prompt": "Narrate the moment a young artist finally unveils a large public mural to a waiting crowd in a city park."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 13, "prompt": "Invent a scene where two passengers on a crowded tram realize they are carrying identical, swapped suitcases."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 14, "prompt": "Recount how a grandmother and her grandson successfully baked a complex multi-tiered cake for a family reunion in a tiny kitchen."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 15, "prompt": "Describe the tense but quiet atmosphere in a crowded theater foyer just before the doors open for a highly anticipated premiere."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 16, "prompt": "Narrate the morning routine of a busy harbor ferry as passengers and deckhands board for the first crossing of the day."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 17, "prompt": "Invent a short scene on a mountain trail where two hikers help a lost tourist find the way back to the base camp."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 18, "prompt": "Recount the chaotic and joyful moments of a neighborhood block party when the food trucks first arrive."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 19, "prompt": "Describe a mystical, floating market in an invented fantasy world where merchants trade bottled whispers and starlight."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 20, "prompt": "Narrate the interaction between a street magician and a skeptical group of onlookers on a busy wooden boardwalk."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 21, "prompt": "Invent a scene inside a busy bicycle repair shop where three friends are trying to fix a tandem bike before a big weekend trip."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 22, "prompt": "Recount how a community came together to clean up and replant a neglected public park plaza after a heavy storm."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 23, "prompt": "Describe the scene at a bustling harbor-side fish market in 19th-century Brittany as the morning boats arrive."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 24, "prompt": "Narrate the moment a family trying to pitch a tent in a sudden downpour finally decides to retreat to their car."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 25, "prompt": "Invent a short scene where two neighbors accidentally swap identical grocery bags at a busy neighborhood vegetable stall."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 26, "prompt": "Recount how a quiet afternoon in a public library was disrupted by a stray canary flying through the open window."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 27, "prompt": "Describe the atmosphere and interactions among the passengers waiting on a remote, snow-covered railway platform at midnight."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 28, "prompt": "Invent a brief dialogue between two treasure hunters who have just uncovered a glowing, humming artifact in a desert cavern."}
+{"vector_id": "teacher__report_card", "heldout_prompt_idx": 29, "prompt": "Narrate the chaotic but joyful scene of three generations of a family preparing a large festive dinner in a small kitchen."}

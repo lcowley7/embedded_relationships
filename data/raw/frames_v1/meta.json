@@ -1,0 +1,73 @@
+{
+  "dataset": "frames_v1",
+  "n_vectors": 30,
+  "n_prompts_default": 72,
+  "n_heldout": 30,
+  "clouds": [
+    "doctor",
+    "lawyer",
+    "dentist",
+    "agent",
+    "teacher"
+  ],
+  "model": "gemini-3.5-flash",
+  "correspondence": [
+    [
+      "PRACTITIONER",
+      "PRACTITIONER"
+    ],
+    [
+      "RECIPIENT",
+      "RECIPIENT"
+    ],
+    [
+      "VENUE",
+      "VENUE"
+    ],
+    [
+      "MATTER",
+      "MATTER"
+    ],
+    [
+      "INTERVENTION",
+      "INTERVENTION"
+    ],
+    [
+      "ARTIFACT",
+      "ARTIFACT"
+    ]
+  ],
+  "shape": "multi_frame",
+  "vectors": [
+    "doctor__doctor",
+    "doctor__patient",
+    "doctor__clinic",
+    "doctor__illness",
+    "doctor__treatment",
+    "doctor__prescription",
+    "lawyer__lawyer",
+    "lawyer__client",
+    "lawyer__law_firm",
+    "lawyer__lawsuit",
+    "lawyer__representation",
+    "lawyer__contract",
+    "dentist__dentist",
+    "dentist__dental_patient",
+    "dentist__dental_surgery",
+    "dentist__toothache",
+    "dentist__filling",
+    "dentist__dental_chart",
+    "agent__real_estate_agent",
+    "agent__vendor",
+    "agent__agency",
+    "agent__property_sale",
+    "agent__auction",
+    "agent__listing",
+    "teacher__teacher",
+    "teacher__student",
+    "teacher__school",
+    "teacher__lesson",
+    "teacher__instruction",
+    "teacher__report_card"
+  ]
+}

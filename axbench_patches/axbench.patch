@@ -1,0 +1,360 @@
+diff --git a/axbench/models/probe.py b/axbench/models/probe.py
+index 950809f..d7cb66c 100644
+--- a/axbench/models/probe.py
++++ b/axbench/models/probe.py
+@@ -66,8 +66,17 @@ class DataCollator(object):
+ def make_data_module(
+     tokenizer: transformers.PreTrainedTokenizer, model, df, prefix_length=1
+ ):
++    # PATCH 3 — surface silent truncation events.
++    # (truncation audit H2).
++    # The tokenizer call below truncates at max_length=1024 silently. We pre-tokenize
++    # without truncation once to count how many rows hit the cap. Cheap (one-time, at
++    # train start); makes the silent drops visible.
++    truncation_count = 0
+     all_input_ids, all_labels, all_intervention_locations = [], [], []
+     for _, row in df.iterrows():
++        raw_ids = tokenizer(row["input"], truncation=False, return_tensors="pt")["input_ids"][0]
++        if len(raw_ids) > 1024:
++            truncation_count += 1
+         input_ids = tokenizer(
+             row["input"], max_length=1024, truncation=True, return_tensors="pt")["input_ids"][0]
+         base_length = len(input_ids)
+@@ -75,6 +84,10 @@ def make_data_module(
+         all_input_ids.append(input_ids)
+         all_labels.append(row["labels"])
+         all_intervention_locations.append(intervention_locations)
++    if truncation_count > 0:
++        print(f"[probe.make_data_module] truncation fired on {truncation_count}/{len(df)} "
++              f"rows (max_length=1024). ",
++              flush=True)
+ 
+     train_dataset = datasets.Dataset.from_dict({
+         "input_ids": all_input_ids,
+diff --git a/axbench/scripts/args/training_args.py b/axbench/scripts/args/training_args.py
+index 2a899c6..95e47c4 100644
+--- a/axbench/scripts/args/training_args.py
++++ b/axbench/scripts/args/training_args.py
+@@ -110,11 +110,17 @@ class TrainingArgs:
+         )
+ 
+         # Define global and hierarchical parameters
++        # PATCH 6 — 'random_init' / 'random_seed' added for the RANDOM-MODEL NULL.
++        # See axbench/utils/random_init.py and new_pipeline/random_null/METHOD.md.
++        # This whitelist is the ONLY route from YAML to args: keys absent from it are
++        # silently dropped by the loop below, so a new config field is inert until listed
++        # here. (That silent drop is why this patch is load-bearing, not cosmetic.)
+         global_params = [
+             'concept_path', 'model_name', 'layer', 'component',
+             'data_dir', 'dump_dir', 'run_name', 'seed', 'use_bf16', 'overwrite_data_dir', 'max_concepts',
+             'overwrite_metadata_dir', 'overwrite_inference_data_dir', 'max_num_of_examples', 'use_dpo_loss',
+-            'use_wandb', 'wandb_project', 'wandb_name', 'output_length'
++            'use_wandb', 'wandb_project', 'wandb_name', 'output_length',
++            'random_init', 'random_seed'
+         ]
+         hierarchical_params = [
+             'batch_size', 'n_epochs', 'topk',
+@@ -259,18 +265,20 @@ class TrainingArgs:
+     def _infer_type(param_name: str):
+         bool_params = ['use_bf16', 'exclude_bos', 'binarize_dataset', 'train_on_negative', 
+                        'use_synergy', 'use_dpo_loss', 'use_wandb', 'reference_free', 'negative_only']
+-        int_params = ['layer', 'batch_size', 'n_epochs', 'topk', 'seed', 'low_rank_dimension', 
+-                      'gradient_accumulation_steps', 'lora_alpha', 'max_concepts', 'max_num_of_examples', 'output_length']
++        int_params = ['layer', 'batch_size', 'n_epochs', 'topk', 'seed', 'low_rank_dimension',
++                      'gradient_accumulation_steps', 'lora_alpha', 'max_concepts', 'max_num_of_examples', 'output_length',
++                      'random_seed']  # PATCH 6
+         float_params = [
+             'lr', 'coeff_l1_loss_null', 'coeff_l1_loss', 'coeff_l2_loss', 'coeff_norm_loss', 
+             'coeff_latent_l1_loss', 'weight_decay', 'temperature_start', 'temperature_end', 
+             'bow_C', 'beta', 'gemma', 'label_smoothing', 'simpo_scaler', 'dropout', 'intervention_positions_dropout']
+         str_params = [
+-            'concept_path', 'model_name', 'component', 
++            'concept_path', 'model_name', 'component',
+             'data_dir', 'dump_dir', 'run_name', 'dataset_category', 'intervention_positions',
+             'intervention_type', 'reft_positions', 'reft_type', 'overwrite_data_dir',
+             'overwrite_metadata_dir', 'overwrite_inference_data_dir', 'bow_penalty', 'loss_type',
+-            'wandb_project', 'wandb_name', 'steering_prompt_type']
++            'wandb_project', 'wandb_name', 'steering_prompt_type',
++            'random_init']  # PATCH 6
+         list_params = ['intervention_layers', 'reft_layers', 'lora_layers', 'lora_components', 'steering_factors', 'preference_pairs']
+ 
+         if param_name in int_params:
+diff --git a/axbench/scripts/inference.py b/axbench/scripts/inference.py
+index db06b9a..5d8813c 100644
+--- a/axbench/scripts/inference.py
++++ b/axbench/scripts/inference.py
+@@ -1069,8 +1069,13 @@ def main():
+     generate_args = DatasetArgs(custom_args=custom_args, section="generate", ignore_unknown=True)
+     inference_args = DatasetArgs(custom_args=custom_args, section="inference", ignore_unknown=True)
+ 
+-    if training_args.overwrite_metadata_dir is not None and os.path.exists(training_args.overwrite_metadata_dir):
+-        inference_args.data_dir = training_args.overwrite_metadata_dir # since we only load metadata from this dir
++    # PATCH 5: also honour overwrite_metadata_dir when set in
++    # the inference: section. Upstream only reads it from training_args (section="train"),
++    # which is non-obvious and causes silent FileNotFoundError fallthrough to
++    # <dump_dir>/generate/metadata.jsonl. Either section now works; train: stays canonical.
++    _meta_dir = training_args.overwrite_metadata_dir or getattr(inference_args, "overwrite_metadata_dir", None)
++    if _meta_dir is not None and os.path.exists(_meta_dir):
++        inference_args.data_dir = _meta_dir # since we only load metadata from this dir
+     else:
+         inference_args.data_dir = f"{inference_args.dump_dir}/generate"
+     inference_args.train_dir = f"{inference_args.dump_dir}/train"
+diff --git a/axbench/scripts/train.py b/axbench/scripts/train.py
+index c00e336..0c74e3a 100644
+--- a/axbench/scripts/train.py
++++ b/axbench/scripts/train.py
+@@ -22,6 +22,7 @@ from args.training_args import TrainingArgs
+ from args.dataset_args import DatasetArgs
+ from axbench.utils.constants import * 
+ from axbench.utils.model_utils import get_prefix_length, get_suffix_length
++from axbench.utils.random_init import randomize_model  # PATCH 6 — random-model null
+ from transformers import set_seed
+ import torch.distributed as dist
+ import sys
+@@ -102,17 +103,32 @@ def load_metadata(metadata_path):
+ 
+ 
+ def prepare_df(
+-    original_df, negative_df, concept, metadata, tokenizer, 
+-    binarize, train_on_negative, is_chat_model, output_length, model_name, 
++    original_df, negative_df, concept, metadata, tokenizer,
++    binarize, train_on_negative, is_chat_model, output_length, model_name,
+     max_num_of_examples=None, use_dpo_loss=False, steering_prompt_type="prepend",
+-    keep_orig_axbench_format=False):
+-    
++    keep_orig_axbench_format=False,
++    concept_id=None):  # PATCH 1 — per-concept_id negative selection. See note below.
++
+     suffix_length, suffix_str = get_suffix_length(tokenizer)
+     print(f"Suffix length for {model_name}: {suffix_length}, Suffix string: {suffix_str}")
+     genre = metadata["concept_genres_map"][concept][0]
+     # assign input and output containing concept with 1, otherwise 0
+     positive_df = original_df[(original_df["output_concept"] == concept) & (original_df["category"] == "positive")]
+-    negative_df = negative_df[(negative_df["concept_genre"] == genre)]
++    # PATCH 1 — EEEEE PROVENANCE COMMENT. 
++    #
++    # AxBench's negative-row sentinel is `output_concept == "EEEEE"`. Upstream filters
++    # negatives by `concept_genre == genre`, pooling them across all concepts that share
++    # a genre. For our pipeline, negatives are PROMPT-PAIRED with positives — the negative
++    # for vector V is the same prompt as V's positive, with an opposing continuation.
++    #
++    # So when `concept_id` is provided (our convert_to_axbench.py sets it for every row,
++    # positives AND paired negatives), we filter the negatives to ONLY those carrying this
++    # vector's concept_id. The upstream genre-pool path is preserved when concept_id is None,
++    # so AxBench's stock RePS/HyperSteer behavior is unchanged for runs that don't set it.
++    if concept_id is not None:
++        negative_df = negative_df[(negative_df["concept_id"] == concept_id)]
++    else:
++        negative_df = negative_df[(negative_df["concept_genre"] == genre)]
+     if max_num_of_examples:
+         positive_df = positive_df.head(max_num_of_examples // 2)
+         negative_df = negative_df.head(max_num_of_examples // 2)
+@@ -387,7 +403,14 @@ def main():
+             sae_params = None
+ 
+     # Load tokenizer
+-    tokenizer = AutoTokenizer.from_pretrained(args.model_name, model_max_length=512)
++    # PATCH 2 — raised model_max_length from upstream 512 to 1024.
++    # (truncation audit H1).
++    # Our chat-template-wrapped continuations from Gemma-4 routinely exceed 512 tokens
++    # (commonly 600–900). Anything past the cap is silently dropped before DiffMean
++    # averages activations, biasing the learned direction toward early tokens. Raising
++    # the cap to 1024 captures every continuation we generate (gen-time max_tokens=512
++    # plus chat-template wrap is comfortably under 1024).
++    tokenizer = AutoTokenizer.from_pretrained(args.model_name, model_max_length=1024)
+     tokenizer.padding_side = "right"
+ 
+     # Partition df_list among ranks
+@@ -399,6 +422,13 @@ def main():
+         logger.warning(f"Using bfloat16 for model {args.model_name}")
+     model_instance = AutoModelForCausalLM.from_pretrained(
+         args.model_name, torch_dtype=torch.bfloat16 if args.use_bf16 else None)
++    # PATCH 6 — RANDOM-MODEL NULL. No-op unless `random_init` is set in the train: section.
++    # Deliberately AFTER from_pretrained and BEFORE .to(device)/.eval(), and deliberately
++    # leaving args.model_name untouched, so tokenizer, chat template, prefix_length and
++    # token positions are byte-identical to the real run and ONLY the weights differ.
++    # See axbench/utils/random_init.py for what "full" vs "body" reset.
++    model_instance = randomize_model(
++        model_instance, getattr(args, "random_init", None), getattr(args, "random_seed", None))
+     is_chat_model = True if args.model_name in CHAT_MODELS else False
+     model_instance = model_instance.eval()
+     model_instance.to(device)
+@@ -487,8 +517,8 @@ def main():
+             }
+             prepared_df = concept_df.copy()
+             prepared_df = prepare_df(
+-                prepared_df, negative_df, concept, metadata[concept_id], tokenizer, 
+-                binarize=args.models[model_name].binarize_dataset, 
++                prepared_df, negative_df, concept, metadata[concept_id], tokenizer,
++                binarize=args.models[model_name].binarize_dataset,
+                 train_on_negative=args.models[model_name].train_on_negative,
+                 use_dpo_loss=args.use_dpo_loss,
+                 is_chat_model=is_chat_model,
+@@ -497,6 +527,7 @@ def main():
+                 max_num_of_examples=args.max_num_of_examples,
+                 steering_prompt_type=args.models[model_name].steering_prompt_type,
+                 keep_orig_axbench_format=generate_args.keep_orig_axbench_format,
++                concept_id=concept_id,  # PATCH 1 — enables per-concept_id negative selection.
+             )
+             benchmark_model.train(prepared_df, **kwargs)
+             benchmark_model.save(dump_dir, model_name=f"rank_{rank}_{model_name}")
+@@ -548,7 +579,12 @@ def main():
+         # Save other config
+         config = {"model_name": args.model_name,
+                 "layer": args.layer,
+-                "component": args.component}
++                "component": args.component,
++                # PATCH 6 — provenance for the random-model null. (mode, seed) fully
++                # determines the weights, so these two fields ARE the checkpoint: null
++                # runs are reproducible from config.json alone, with nothing stored.
++                "random_init": getattr(args, "random_init", None),
++                "random_seed": getattr(args, "random_seed", None)}
+         config_path = dump_dir / CONFIG_FILE
+         with open(config_path, 'w') as f:
+             json.dump(config, f)
+diff --git a/axbench/utils/dataset.py b/axbench/utils/dataset.py
+index e946968..05e78dd 100644
+--- a/axbench/utils/dataset.py
++++ b/axbench/utils/dataset.py
+@@ -188,19 +188,36 @@ class DatasetFactory(object):
+         self.tokenizer = tokenizer
+         self.dump_dir = dump_dir
+ 
+-        # prepare lm model
++        # PATCH 6: tolerate inference paths that don't need an
++        # LM endpoint or seed datasets. Upstream eagerly constructs LanguageModel
++        # (which requires "gpt-4o" in the lm_model string and a working OPENAI_BASE_URL)
++        # and load_from_disk for seed_sentences/seed_instructions. Our HeldoutLocal
++        # steering path (PATCH 4) never touches either — so make both tolerant when
++        # the prerequisites aren't present. The eager-init paths (genre-pool generation
++        # at __init__ time, prepare_concepts, latent create_eval_df) are guarded by
++        # `not is_inference` further down; if those paths run without the prerequisites
++        # they will fail explicitly downstream, which is correct.
+         lm_model = kwargs.get("lm_model", "gpt-4o-mini")
+         self.use_cache = use_cache
+-        self.lm_model = LanguageModel(
+-            lm_model, client, dump_dir, 
+-            use_cache=use_cache, master_data_dir=master_data_dir
+-        )
++        self.lm_model = None
++        if lm_model is not None and "gpt-4o" in str(lm_model):
++            self.lm_model = LanguageModel(
++                lm_model, client, dump_dir,
++                use_cache=use_cache, master_data_dir=master_data_dir
++            )
+         self.seed = kwargs.get("seed", 42)
+         self.logger = kwargs.get("logger", logger)
+ 
+-        # load seed sentences
+-        self.seed_sentences = load_from_disk(os.path.join(master_data_dir, "seed_sentences"))
+-        self.seed_instructions = load_from_disk(os.path.join(master_data_dir, "seed_instructions"))
++        # PATCH 6: load seed datasets only if they exist on disk
++        self.seed_sentences = None
++        self.seed_instructions = None
++        if master_data_dir:
++            seed_sent_path = os.path.join(master_data_dir, "seed_sentences")
++            seed_instr_path = os.path.join(master_data_dir, "seed_instructions")
++            if os.path.exists(seed_sent_path):
++                self.seed_sentences = load_from_disk(seed_sent_path)
++            if os.path.exists(seed_instr_path):
++                self.seed_instructions = load_from_disk(seed_instr_path)
+         self.dataset_category = dataset_category
+         self.overwrite_inference_data_dir = kwargs.get("overwrite_inference_data_dir", None)
+         if self.overwrite_inference_data_dir is not None and os.path.exists(self.overwrite_inference_data_dir):
+@@ -236,10 +253,16 @@ class DatasetFactory(object):
+ 
+     def save_cache(self):
+         """Save the language model cache before exiting"""
++        # PATCH 6: tolerate lazy-skipped lm_model (HeldoutLocal path)
++        if self.lm_model is None:
++            return
+         self.lm_model.save_cache()
+ 
+     def reset_stats(self):
+         """Reset API costs"""
++        # PATCH 6: tolerate lazy-skipped lm_model (HeldoutLocal path)
++        if self.lm_model is None:
++            return
+         if self.use_cache:
+             self.lm_model.dump()
+         self.lm_model.stats.print_report()
+@@ -639,9 +662,16 @@ class SteeringDatasetFactory(object):
+         self, tokenizer, dump_dir, has_prompt_steering=False, **kwargs):
+         self.tokenizer = tokenizer
+         self.master_data_dir = kwargs.get("master_data_dir", None)
+-        if kwargs.get("lm_client", None):
++        # PATCH 6: same lazy-LM pattern as DatasetFactory above.
++        # LanguageModel.__init__ requires `"gpt-4o" in model` — if lm_model is None
++        # (our YAML inference section doesn't set it), or doesn't contain "gpt-4o",
++        # skip construction. Only the AlpacaEvalSuppress and PromptSteering paths use
++        # self.lm_model; both are inactive in our pipeline.
++        self.lm_model = None
++        lm_model_name = kwargs.get("lm_model", "gpt-4o-mini")
++        if kwargs.get("lm_client", None) and lm_model_name is not None and "gpt-4o" in str(lm_model_name):
+             self.lm_model = LanguageModel(
+-                kwargs.get("lm_model", "gpt-4o-mini"), kwargs["lm_client"], dump_dir, 
++                lm_model_name, kwargs["lm_client"], dump_dir,
+                 use_cache=True, master_data_dir=self.master_data_dir
+             )
+         self.has_prompt_steering = has_prompt_steering
+@@ -719,12 +749,57 @@ class SteeringDatasetFactory(object):
+                                 sampled_prompt, formatted_steered_prompt, formatted_prompt, "", "", "", []
+                             ]]
+                 df = pd.DataFrame(
+-                    all_examples, 
++                    all_examples,
+                     columns = [
+-                        'dataset_name', 'concept_id', 'input_concept', 
++                        'dataset_name', 'concept_id', 'input_concept',
+                         'input_id', 'factor', 'original_prompt', 'steered_input', 'input', "suppress_original", "suppress_rewrite", "steered_prompt", "defense"])
+                 all_dfs.append(df)
+-            
++
++            elif dataset_name == "HeldoutLocal":
++                # PATCH 4 — load held-out steering prompts from a local parquet rather
++                # than sampling from AlpacaEval. See
++                # 
++                #
++                # Schema expected at master_data_dir/heldout_eval.parquet (written by
++                # new_pipeline/convert_to_axbench.py):
++                #   concept_id (int), input_id (int), original_prompt (str), input (str)
++                # We slice to the current concept_id, take up to subset_n rows, and emit
++                # (factor × input_id) rows in the exact AlpacaEval output schema so
++                # downstream code is unaware of the change.
++                assert self.master_data_dir is not None, "master_data_dir is required for HeldoutLocal."
++                heldout_path = os.path.join(self.master_data_dir, "heldout_eval.parquet")
++                heldout_df = pd.read_parquet(heldout_path)
++                concept_heldout = heldout_df[heldout_df["concept_id"] == int(concept_id)].copy()
++                concept_heldout = concept_heldout.sort_values("input_id").head(subset_n)
++
++                system_messages = []
++                if steering_model_name in HAS_SYSTEM_PROMPT_MODELS:
++                    system_messages = [{"role": "system", "content": "You are a helpful assistant."}]
++
++                all_examples = []
++                for idx, concept in enumerate(concepts):
++                    for _, row in concept_heldout.iterrows():
++                        sampled_prompt = row["original_prompt"]
++                        input_id_int = int(row["input_id"])
++                        formatted_prompt = self.tokenizer.apply_chat_template(
++                            system_messages + [{"role": "user", "content": sampled_prompt}],
++                            tokenize=True, add_generation_prompt=True)[1:]  # strip BOS
++                        formatted_prompt = self.tokenizer.decode(formatted_prompt)
++                        # We don't use prompt-based steering for DiffMean, so steered_input == input.
++                        for factor in steering_factors:
++                            all_examples.append([
++                                dataset_name, idx, concept, input_id_int, factor,
++                                sampled_prompt, formatted_prompt, formatted_prompt,
++                                "", "", "", []
++                            ])
++                df = pd.DataFrame(
++                    all_examples,
++                    columns=[
++                        'dataset_name', 'concept_id', 'input_concept',
++                        'input_id', 'factor', 'original_prompt', 'steered_input', 'input',
++                        "suppress_original", "suppress_rewrite", "steered_prompt", "defense"])
++                all_dfs.append(df)
++
+             elif dataset_name == "AlpacaEvalSuppress":
+                 
+                 # load alpaca eval dataset.

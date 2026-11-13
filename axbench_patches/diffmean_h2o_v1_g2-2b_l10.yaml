@@ -1,0 +1,41 @@
+# DiffMean config — Gemma-2-2B-it L10, h2o_v1 sub-dataset (proforma).
+generate:
+  master_data_dir: "data/axbench/h2o_v1"
+  seed: 42
+train:
+  model_name: "google/gemma-2-2b-it"
+  layer: 10
+  component: "res"
+  seed: 42
+  use_bf16: true
+  output_length: 128
+  max_num_of_examples: 144
+  overwrite_data_dir: "data/axbench/h2o_v1"
+  overwrite_metadata_dir: "data/axbench/h2o_v1"
+  dump_dir: "data/axbench/h2o_v1/diffmean_l10"
+  models:
+    DiffMean:
+      batch_size: 6
+      n_epochs: 1
+      binarize_dataset: true
+      low_rank_dimension: 1
+inference:
+  model_name: "google/gemma-2-2b-it"
+  master_data_dir: "data/axbench/h2o_v1"
+  dump_dir: "data/axbench/h2o_v1/diffmean_l10"
+  use_bf16: true
+  models: ["DiffMean"]
+  output_length: 128
+  latent_num_of_examples: 36
+  latent_batch_size: 16
+  steering_intervention_type: "addition"
+  steering_model_name: "google/gemma-2-2b-it"
+  steering_datasets: ["HeldoutLocal"]
+  steering_batch_size: 10
+  steering_output_length: 512
+  steering_layers: [10]
+  steering_num_of_examples: 12
+  steering_factors: [0.0, 0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 1.8, 2.0, 2.5, 3.0, 4.0, 5.0]
+  seed: 42
+  temperature: 1.0
+  compute_perplexity: false

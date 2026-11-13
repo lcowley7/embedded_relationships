@@ -1,6 +1,6 @@
 """compare_steering.py -- steering efficacy side by side: Gemma-2-2B (the paper), OLMo-3.1-32B, Qwen3-32B.
 
-The 32B models were steered on a reduced grid (steer.py / gcp/run_steer.sh: 9 of Gemma's 15
+The 32B models were steered on a reduced grid (steer.py via bigmodel/run_steer.sh: 9 of Gemma's 15
 factors, the first 6 of its 12 prompts), so Gemma is RE-SCORED on exactly that subset from its
 per-row judge scores; all three columns are then the same statistic on the same grid:
 

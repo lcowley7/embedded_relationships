@@ -1,6 +1,8 @@
 # How Relations Impose Embedding-Space Structure — code and data
 
-Code and data release for the paper *How Relations Impose Embedding-Space Structure*. It contains:
+Code and data release for the paper *How Relations Impose Embedding-Space Structure*
+by Lachlan Cowley (Monash University), Jey Han Lau, Yulia Otmakhova and Eduard Hovy
+(The University of Melbourne). It contains:
 
 - the **prompts** we sent to API models (data generation and the steering judge), in `prompts/`;
 - the **code** that generates the training text, builds difference-of-means steering vectors,
@@ -46,12 +48,16 @@ and `wave1_families.py` (analogy templates and concepts), and `evaluators/gemma4
 3. **Train / steer with AxBench** (DiffMean, all-token addition). We use upstream
    [AxBench](https://github.com/stanfordnlp/axbench) at commit `41c8332` with the small patch in
    `axbench_patches/axbench.patch`: per-concept paired negatives, truncation logging, lazy LM loading.
-   Clone it into `ax_bench/axbench` and `git apply` the patch. Configs come from `hypothesis_test/make_configs.py`
-   (template: `axbench_patches/diffmean_h2o_v1_g2-2b_l10.yaml`). SLURM wrappers are in `slurm/ds_{train,latent,infer}.slurm`.
+   Clone it into `ax_bench/axbench` and `git apply` the patch. Configs come from `hypothesis_test/make_configs.py`,
+   which writes them to `ax_bench/axbench/axbench/sweep/frh/` where the SLURM wrappers look for them
+   (template: `axbench_patches/diffmean_h2o_v1_g2-2b_l10.yaml`). Steering is evaluated on the first 12 of each
+   dataset's 30 held-out prompts (`steering_num_of_examples: 12`). SLURM wrappers are in `slurm/ds_{train,latent,infer}.slurm`.
    The chunked temperature datasets are merged with `evaluators/recombine_temp_{c1,f1}.py`.
 4. **Judge steering**: `olmo/gemini_judge.py` (wrapper: `slurm/ds_eval_gemini.slurm`).
 5. **Other models** (OLMo-3.1-32B, Qwen3-32B): `bigmodel/extract.py` (DiffMean vectors from the same
-   training text), `bigmodel/steer.py`, `bigmodel/models.py`. `LT_MODEL=<tag>` (`lt_model.py`) points
+   training text), `bigmodel/steer.py`, `bigmodel/models.py`. `bigmodel/run_steer.sh` reproduces the 32B
+   steering runs, which used a reduced grid (9 of the 15 factors, the first 6 of the 12 prompts); `steer.py`'s
+   defaults are Gemma's full grid. `LT_MODEL=<tag>` (`lt_model.py`) points
    every analysis at that model's vectors, at the same relative depth.
 
 ## Paper results → scripts

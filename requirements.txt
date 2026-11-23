@@ -1,10 +1,14 @@
+# Python 3.10. The analyses (notebooks/reproduce_from_data.ipynb) need only the first block.
 numpy==2.2.6
 pandas==2.3.0
 scipy==1.15.3
 torch==2.7.1
 matplotlib==3.10.3
 pyarrow==21.0.0
-# generation / judging (Gemini API)
+jupyter==1.1.1
+huggingface_hub==0.34.3   # downloads the Hugging Face part of data/
+# generation and judging (Gemini API)
 google-genai==1.45.0
-# vector extraction on other models, SAE activations
+# vector extraction / steering on the 32B models and SAE activations (GPU)
 transformers==4.54.1
+accelerate==1.8.1

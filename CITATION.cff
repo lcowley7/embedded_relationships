@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "How Relations Impose Embedding-Space Structure"
+authors:
+  - family-names: Cowley
+    given-names: Lachlan
+    affiliation: Monash University
+  - family-names: Lau
+    given-names: Jey Han
+    affiliation: The University of Melbourne
+  - family-names: Otmakhova
+    given-names: Yulia
+    affiliation: The University of Melbourne
+  - family-names: Hovy
+    given-names: Eduard
+    affiliation: The University of Melbourne
+repository-code: "https://github.com/lcowley7/embedded_relationships"
+license: MIT
+type: software

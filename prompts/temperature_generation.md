@@ -1,6 +1,6 @@
 # Temperature data-generation prompts (verbatim)
 
-Extracted from `hypothesis_test/temperature_v1.ipynb`, which the generators (`hypothesis_test/generate_temp_numeric_v1.py`, `generate_temp_f1.py`, `generate_h2o_v1.py`) execute as their source of truth. All model calls go to `gemini-3.5-flash` with `thinking_budget=0`. Prompt pools: batches of `{n}`=24 at temperature 1.0; continuations: one call per prompt at temperature 0.7, `max_output_tokens=400`.
+Extracted from `pipeline/generate/temperature_templates.py`, which the generators (`pipeline/generate/generate_temp_celsius.py`, `generate_temp_fahrenheit.py`, `generate_water_words.py`) import. All model calls go to `gemini-3.5-flash` with `thinking_budget=0`. Prompt pools: batches of `{n}`=24 at temperature 1.0; continuations: one call per prompt at temperature 0.7, `max_output_tokens=400`.
 
 ## Numeric temperatures (`temp_c1`, `temp_f1`)
 
@@ -76,7 +76,7 @@ Response only - no preamble.
 
 ### The 18 members and their `{desc}` fill
 
-The nominal temperatures used in the analysis (paper Table 1) are `H2O_TEMP` in `fractal_analysis/analysis_harness.py`; the generator never sees a temperature.
+The nominal temperatures used in the analysis (paper Table 1) are `H2O_TEMP` in `relgeom/harness.py`; the generator never sees a temperature.
 
 | slug | `{desc}` |
 |---|---|

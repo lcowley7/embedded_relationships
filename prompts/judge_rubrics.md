@@ -1,6 +1,6 @@
 # Steering-evaluation judge rubrics (verbatim)
 
-Judge: `gemini-3.1-flash-lite` via `olmo/gemini_judge.py` (rubric text, routing and parsing live in `evaluators/gemma4_judge.py`). `{prompt}`, `{response}` and `{concept}` are substituted at call time. The three scores (0/1/2) are combined by a harmonic mean with a zero gate; a concept's Overall score is the maximum over the 15 steering factors.
+Judge: `gemini-3.1-flash-lite` via `pipeline/judge/gemini_judge.py` (rubric text, routing and parsing live in `pipeline/judge/rubrics.py`). `{prompt}`, `{response}` and `{concept}` are substituted at call time. The three scores (0/1/2) are combined by a harmonic mean with a zero gate; a concept's Overall score is the maximum over the 15 steering factors.
 
 ## Fluency
 
